@@ -4,19 +4,18 @@
 LIS 2360:  Web Application Development
 
 ### Assignment Date:  
-(Month Day, Year)
+April 29, 2018
 
 ### Student Name:  
-(First and Last Name)
+Brian Milvain
 
 ### Project Description:
-(In your own words, briefly describe the assignment.)
+In this project, we learned AJAX, as well as JSON. We used both to add information to a IMDB page for the movie Big.
 
 ### View Project:
-(Replace this statement with your Github Page URL that was created when you 
- published the project.)
+https://bmilvain.github.io/lesson8_ajax/
 
 ### Lessons Learned in the Assignment:
-1. (Briefly describe a lesson/concept learned in this lesson.)
-2. (Briefly describe a lesson/concept learned in this lesson.)
-3. (Briefly describe a lesson/concept learned in this lesson.)
+1. The most important lesson for me was how much easier using it s to use JSON (Much less typing) 
+2. Second lesson is that AJAX is fairly new and although it has some issues it is gaining popularity fast and issues will be fixed.
+3. A final lesson I learned i that, once you know the parameters of the language, you can cut and paste the code and change the placeholder or event etc.
